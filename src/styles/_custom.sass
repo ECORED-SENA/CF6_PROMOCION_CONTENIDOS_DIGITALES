@@ -2,14 +2,28 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 10%
+    right: 80%
   &-2
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 10%
+    right: 50%
+  &-3
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    right: 5%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 10%
+    right: 20%
+  &-5
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
     right: 30%
-
 
 @keyframes float1
   0%
@@ -17,3 +31,327 @@
 
   100%
     transform: translateY(0px)
+
+.fullHg
+  height: 100% !important
+
+.leftTopCorner
+  position: absolute
+  top: -15px
+  left: -15px
+  
+
+////// img
+.img45
+  width: 45px
+.img70
+  width: 70px
+.img85
+  width: 85px
+.img110
+  width: 110px
+.img120
+  width: 120px
+.img145
+  width: 145px
+.img190
+  width: 190px
+
+/////// Txt
+.txt--system
+  color: $color-sistema-texto !important
+.txt--blue
+  color: #1169E3
+  font-weight: 600    
+.fas.fa-dot-circle.blue
+  color: #1169E3 !important
+
+.cstmH3
+  display: inline-block
+  padding: 0.5rem 2.5rem
+  color: white
+  background-color: #1169E3
+  border-radius: 25px
+
+.cstmH3_02
+  display: inline-block
+  padding: 0.5rem 2.5rem 
+  background-color: #29C4BB
+  border-radius: 25px
+
+/////// cajon
+
+.cajon
+  &.cjn--mint
+    background-color: #C9F0EE
+    &::before
+      background-color: #29C4BB
+
+  &.cjn--blue
+    background-color: #D7E4F6
+    &::before
+      background-color: #1169E3
+
+////// Crds 
+
+.crd
+  &.crd--white
+    background-color: #ffffff
+  &.crd--yellow
+    background-color: #FEE734
+  &.crd--mint
+    background-color: #C9F0EE
+  &.crd--emerald
+    background-color: #29C4BB
+  &.crd--darkGreen
+    background-color: #B0C8CB    
+  &.crd--lightBlue
+    background-color: #DAE8FA 
+  &.crd--grayBlue
+    background-color: #E6F0FC 
+  &.crd--blue
+    background-color: #1169E3  
+  &.crd--deepBlue
+    background-color: #0C487B 
+  
+
+  &.crd--brad
+    border-radius: 20px
+  &.crd--shadow
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+
+  &.crd--banner_01
+    border-radius: 20px
+    background-color: #DEF2F1
+    background-image: url("../assets/curso/temas/tema8/t8_01.png")
+    background-position: center right
+    background-size: cover
+    background-repeat: no-repeat
+    @media (max-width: 990px)      
+      background-image: none
+
+  &.crd--banner_02
+    border-radius: 20px
+    background-color: #DEF2F1
+    background-image: url("../assets/curso/temas/tema1/t1_08.png")
+    background-position: center right
+    background-size: cover
+    background-repeat: no-repeat
+    @media (max-width: 990px)      
+      background-image: none
+
+  &.crd--hole
+    position: relative
+    height: 100%
+    & > *
+      position: relative
+    background-color: #D7E4F6
+    border-radius: 20px
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1)
+    &:hover
+      background-color: #0C487B
+      p 
+        color: white
+      &::before
+        color: #356A9C
+    &::before
+      content: attr(data-crdNum)
+      position: absolute
+      bottom: -7px
+      right: 15px
+      font-size: 4em
+      font-weight: 800
+      color: #B3CEF2
+    &::after
+      content: ''
+      position: absolute
+      top: 35px
+      left: -20px      
+      width: 50px
+      height: 50px
+      background-color: #B0C8CB
+      border-radius: 999px
+      box-shadow: inset -6px 0px 4px rgba(0, 0, 0, 0.25) 
+
+  &.crd--hover_01 
+    border-radius: 20px
+    background-color: #C9F0EE
+    transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1)
+    &:hover
+      background-color: #1169E3
+      h4
+        color: white
+
+  &.crd--hover_02
+    border-radius: 20px
+    background-color: #C9F0EE
+    transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1)
+    .circleAvatar_01
+      position: relative      
+      & > *
+        position: relative
+      &::before
+        content: ''
+        position: absolute
+        top: 50%
+        left: 50%
+        width: 120px
+        height: 120px
+        transform: translate(-50%,-50%)          
+        background-color: #B0C8CB
+        border-radius: 999px
+    &:hover
+      background-color: #29C4BB
+      h5 
+        color: #12263F
+      .circleAvatar_01
+        &::before
+          background-color: #DFF6F5
+
+  &.crd--hover_03
+    height: 100%
+    border-radius: 20px
+    background-color: #DBE8FB
+    transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1)
+    &:hover
+      background-color: #1169E3
+      h4, p
+        color: white
+
+  &.crdAvatar-H
+    position: relative
+    height: 100%
+    & > *
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      top: 0
+      right: 0
+      width: calc( 100% - 45px )
+      height: 100%
+      border-radius: 20px
+      background-color: #1169E3
+      
+
+///// bg
+.bg_darkGreen, .bg_greenGray, .bg_grad_01, .bg_grad_02,  .bg_img_01, .bg_img_02, .bg_img_03, .bg_img_04
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: -48px
+    width: calc( 100% + 96px )
+    height: 100%    
+
+.bg_darkGreen
+  &::before
+    background-color: #B0C8CB
+
+.bg_greenGray
+  &::before
+    background-color: #D5DCDD
+
+.bg_grad_01
+  &::before
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(215,228,246,1) 34%, rgba(215,228,246,1) 70%, rgba(255,255,255,1) 100%)
+
+.bg_grad_02
+  &::before
+    background: linear-gradient(0deg, rgba(255,255,255,1) 48%, rgba(238,252,253,1) 100%)
+
+.bg_img_01
+  &::before
+    background-image: url("../assets/curso/recursos/bg_img_01.png")
+    background-repeat: no-repeat
+    background-size: contain
+    background-position: top center
+.bg_img_02
+  &::before
+    background-image: url("../assets/curso/recursos/bg_img_02.png")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_img_03
+  &::before
+    background-image: url("../assets/curso/recursos/bg_img_03.png")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_img_04
+  &::before
+    background-image: url("../assets/curso/recursos/bg_img_04.png")
+    background-repeat: no-repeat
+    background-size: cover
+
+////// Listados
+.lista-ol--cuadro__vineta.blue
+  background-color: #1169E3
+  color: white
+
+.lista-ol--cuadro__vineta
+  color: $color-sistema-texto
+  font-weight: 600
+
+////// Bloque de texto
+.bloque-texto-g.clr_01  
+  background-color: #1169E3 
+
+////// Table
+.tabla-a.cstm_clr_01
+  thead
+    border-top: 5px solid #29C4BB
+    background-color: #E8E8E8
+
+.cell--gray
+  background-color: #F1F1F1
+
+////// Slyder F
+.horizontal-scroll
+  align-items: stretch !important
+
+.tarjeta--cstm
+  background-color: #F6F6F6
+.tarjeta--cstm.acordion__activo
+  background-color: #DBE8FB
+
+////// Slyder tipo B
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #0A3F88
+  background-image: url(../assets/componentes/arrow_white.svg)
+
+.slyder-a__bullets__item
+  background-color: #92B0CE
+  border: none
+
+.slyder-a__bullets__item--active
+  background-color: #0C487B
+  border: none
+
+////// Bloque de texto
+.bloque-texto-a.cstm_clr_01
+  background-color: #1169E3
+  &::before
+    background-color: #E8E8E8
+
+////// Slyder e
+
+.slyder__btn
+  background-color: #FCF2A6
+
+.slyder__btn:hover
+  background-color: #FEE734
+
+////// Linea de tiempo
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #DBE8FB
+
+
+    
+
+  

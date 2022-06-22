@@ -6,8 +6,20 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span
-          i.fas.fa-info
+          i.fas.fa-info.txt--system
       h1 Introducción
+
+    .row.justify-content-center.mb-5(data-aos="zoom-in")
+      .col-lg-9
+        p La forma de comunicarse y relacionarse hoy en día está a solo un clic gracias a internet y a los dispositivos electrónicos que, utilizando los diferentes medios digitales y las redes sociales, permiten el relacionamiento de una comunidad.
+        p.mb-0 El componente Fundamentos del marketing de contenidos integra elementos comunicacionales de promoción, proyección de parrilla de contenidos edición e integración de usos de herramientas digitales para la optimización de la interacción; a continuación se entrega una presentación detallada de elementos fundamentales de este componente.
+      .col-lg-3.d-none.d-lg-flex
+        figure
+          img(src="@/assets/curso/temas/intro/intro.svg", alt="alt")
+
+    figure.mb-4
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
