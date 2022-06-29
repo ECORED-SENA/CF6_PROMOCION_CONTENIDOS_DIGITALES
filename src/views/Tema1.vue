@@ -47,7 +47,7 @@
           figure
             img(src="@/assets/curso/temas/tema1/t1_03.png", alt="alt")       
         .col-lg-7(data-aos="fade-in")
-          p Teniendo en cuenta el concepto de comunicación y los elementos que la integran se debe tener presente cómo, históricamente, se han generado procesos de desarrollo en esta temática, los medios de comunicación en masa o mass media surgen a finales del siglo XVIII posterior a la revolución industrial como respuesta a cambios radicales en diferentes factores de incidencia en la sociedad como la economía, la política y los estilos de vida. 
+          p Teniendo en cuenta el concepto de comunicación y los elementos que la integran se debe tener presente cómo, históricamente, se han generado procesos de desarrollo en esta temática, los medios de comunicación en masa o #[em mass media] surgen a finales del siglo XVIII posterior a la revolución industrial como respuesta a cambios radicales en diferentes factores de incidencia en la sociedad como la economía, la política y los estilos de vida. 
 
           p El propósito de los #[i mass media] era narrar la realidad existente de la relación entre quienes ostentaban el poder y la ciudadanía, para ello interpretaban la situación y generaban un nuevo mensaje, a esto se le conoce como re significar. 
 
@@ -74,7 +74,7 @@
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 2.
-      span Elementos de la comunicación
+      span Cambios en el esquema de comunicación 
 
     figure(data-aos="zoom-in")
       img(src="@/assets/curso/temas/tema1/t1_07.svg", alt="alt")
@@ -87,8 +87,9 @@
     .crd.crd--banner_02.p-5.mb-5(data-aos="zoom-in")
       .row
         .col-lg-6
-          p Es la digitalización de un documento mediante la utilización de herramientas informáticas, con el propósito de modificarlo y adecuarlo a las necesidades de comunicación establecidas por la estrategia de marketing digital enfocado al público objetivo con el que se pretende interactuar.
-          p.mb-0 Editar es sinónimo de publicar y en el ciberespacio a través de los medios digitales, la comunicación se realiza mediante la generación de contenido para su publicación principalmente en imágenes y videos. 
+          p Es aquella que se realiza mediante el uso de las herramientas digitales disponibles para la trasmisión e intercambio de información y conocimiento. Las herramientas digitales permiten la interacción entre las personas de una manera fácil, practica, rápida sin importar la distancia. 
+
+          p.mb-0 La tecnología llegó para instalarse en el mundo empresarial y en la sociedad, hoy en día la gran mayoría de las actividades comerciales y sociales se realizan a través de la #[em web], la interacción es constante, fluida y está a solo un clic, pero, de igual manera, hay ventajas y desventajas en su aplicación, entre las cuales se destacan las siguientes: 
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-9
@@ -144,7 +145,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/t1_09.png", alt="alt")
       .col-lg-8(data-aos="fade-in")
-        p Finalmente, se puede concluir que la comunicación digital es la herramienta que nos permite estar actualizados con información que se transmite en segundos a través de la web utilizando un dispositivo electrónico para ello.
+        p Finalmente, se puede concluir que la comunicación digital es la herramienta que nos permite estar actualizados con información que se transmite en segundos a través de la #[em web] utilizando un dispositivo electrónico para ello.
         p Con el fin de ampliar el concepto sobre algunas de las herramientas de mayor posicionamiento y funcionalidad a nivel digital, revise en el material complementario el video 100 herramientas digitales para la educación versión 2020.
 
     separador
@@ -158,7 +159,7 @@
 
         p Todas las aplicaciones disponibles en el mundo digital tienen un propósito similar, solucionar una necesidad y cada una de ellas cumple con un propósito, captar usuarios. 
 
-        pLa captación de usuarios se debe a la implementación de un plan estratégico de comunicación digital con técnicas y estrategias que permitirán el éxito de este, se hace relevante, entonces, conocer en primera instancia el concepto de técnica, estrategia y actividad. 
+        p La captación de usuarios se debe a la implementación de un plan estratégico de comunicación digital con técnicas y estrategias que permitirán el éxito de este, se hace relevante, entonces, conocer en primera instancia el concepto de técnica, estrategia y actividad. 
 
       .col-lg-4.col-8(data-aos="zoom-in")
         figure
@@ -245,7 +246,7 @@
                   img(src="@/assets/curso/temas/tema1/t1_17.svg", alt="alt").img70.m-auto
               h5.text-center 3. Evaluación
 
-        h3.cstmH3_02.mb-4 Fase de planteamiento(data-aos="zoom-in")
+        h3.cstmH3_02.mb-4(data-aos="zoom-in") Fase de planteamiento
 
         p.mb-5(data-aos="fade-in") Esta fase proyecta la forma en la que se puede gestionar un problema, situación o acción por desarrollar. A continuación, se indican los pasos correspondientes a esta etapa y la forma de estructurar la solución a una necesidad de comunicación.   
 
@@ -260,7 +261,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/t1_19.svg", alt="alt").img110.m-auto               
             h4.text-center.my-3 Usuario
-            p.text-center.mb-0 Segmento del mercado a quién va dirigido el contenido generado. Por ejemplo, personas mayores de 25 años de genero femenino de la ciudad de Cúcuta. 
+            p.text-center.mb-0 Segmento del mercado a quién va dirigido el contenido generado. Por ejemplo, personas mayores de 25 años de género femenino de la ciudad de Cúcuta. 
           .crd.crd--hover_03.crd--brad.p-4
             figure
               img(src="@/assets/curso/temas/tema1/t1_20.svg", alt="alt").img110.m-auto               
@@ -280,7 +281,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/t1_23.svg", alt="alt").img110.m-auto               
             h4.text-center.my-3 Contenidos
-            p.text-center.mb-0 Definir la información a intercambiar por los diferentes canales digitales. Por ejemplo, utilización de un blog para interactuar con los usuarios.           
+            p.text-center.mb-0 Definir la información a intercambiar por los diferentes canales digitales. Por ejemplo, utilización de un #[em blog] para interactuar con los usuarios.           
           .crd.crd--hover_03.crd--brad.p-4
             figure
               img(src="@/assets/curso/temas/tema1/t1_24.svg", alt="alt").img110.m-auto               
@@ -334,7 +335,7 @@
 
               .row(numero="5" titulo="Aspectos legales")
                 .col-lg-6.mb-4.mb-md-0
-                  p Hace referencia a la normatividad existente de ética y comportamiento para la difusión de contenido en la web y la legislación del país donde se interactúa.  Por ejemplo, las políticas de privacidad y la Constitución Política de Colombia de 1991.
+                  p Hace referencia a la normatividad existente de ética y comportamiento para la difusión de contenido en la #[em web] y la legislación del país donde se interactúa.  Por ejemplo, las políticas de privacidad y la Constitución Política de Colombia de 1991.
                 .col-lg-6
                   figure
                     img(src='@/assets/curso/temas/tema1/t1_29.png', alt='')
@@ -350,7 +351,7 @@
               img(src='@/assets/curso/temas/tema1/t1_32.png', alt='')
 
 
-        h3.cstmH3_02.mb-4 Fase de evaluación(data-aos="zoom-in") 
+        h3.cstmH3_02.mb-4(data-aos="zoom-in") Fase de evaluación
 
         p.mb-5(data-aos="fade-in") Una vez se da cumplimiento al planteamiento y desarrollo, se procede a evaluar el proceso integrando cada uno de los pasos que se implementaron para el plan estratégico establecido. 
 
@@ -403,7 +404,7 @@
 
               .row.justify-content-center(titulo="Navegación")
                 .col-lg-8.mb-4.mb-md-0
-                  p Número de usuarios interactuando en el chat / Número total de miembros del grupo.              
+                  p Número de usuarios interactuando en el <i>chat</i> / Número total de miembros del grupo.              
                 .col-md-3.col-7
                   figure
                     img(src='@/assets/curso/temas/tema1/t1_40.svg', alt='')
@@ -463,7 +464,7 @@
 
         p Con el fin de ampliar el concepto sobre narrativa digital, se invita a leer el artículo Los cinco mejores ejemplos de narrativas digitales, el cual se encuentra en el material complementario.
 
-        p.mb-0 Dentro del concepto de las dinámicas de interacción y comunicación digital, no se puede desconocer que, debido a los avances tecnológicos, se ha adaptado el lenguaje para ayudarse en la comunicación e interacción con los demás de una manera más rápida. La utilización de imágenes, figuras, símbolos, videos, entre otros, son el resultado de los grandes cambios en nuestro lenguaje. Ejemplo de ello es Twitter que limita el uso de caracteres y los emoticones utilizados en las conversaciones en los chats. 
+        p.mb-0 Dentro del concepto de las dinámicas de interacción y comunicación digital, no se puede desconocer que, debido a los avances tecnológicos, se ha adaptado el lenguaje para ayudarse en la comunicación e interacción con los demás de una manera más rápida. La utilización de imágenes, figuras, símbolos, videos, entre otros, son el resultado de los grandes cambios en nuestro lenguaje. Ejemplo de ello es Twitter que limita el uso de caracteres y los emoticones utilizados en las conversaciones en los <i>chats</i>. 
 
       .col-xl-4.col-md-8(data-aos="zoom-in")
         figure
@@ -529,17 +530,17 @@
           li 
             i.fas.fa-dot-circle
             | Protocolos de gestión de red: proporcionan mantenimiento y gobierno de red, incluyen SNMP e ICMP.
-        p.mb-0 El modelo OSI (Open System Interconnection, Sistema de Interconexión Abierto), tiene por objetivo establecer un contexto en el cual basar las arquitecturas de comunicación entre diferentes sistemas.
+        p.mb-0 El modelo OSI (<em>Open System Interconnection</em>, Sistema de Interconexión Abierto), tiene por objetivo establecer un contexto en el cual basar las arquitecturas de comunicación entre diferentes sistemas.
       .col-lg-4.col-8.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema1/t1_56.png", alt="alt")
 
-    p.mb-5(data-aos="fade-in") A continuación, se prsentan algunos de los protocolos de red más conocidos, según las capas del modelo OSI:
+    p.mb-5(data-aos="fade-in") A continuación, se presentan algunos de los protocolos de red más conocidos, según las capas del modelo OSI:
 
     .crd.crd--lightBlue.crd--brad.p-5(data-aos="fade-in")
       SlyderA(tipo="b")
         .row.justify-content-center
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Protocolos de la capa 1 - Capa física
             ul.lista-ul--color              
               li 
@@ -567,12 +568,12 @@
                 i.fas.fa-dot-circle
                 | DSL: #[i.ms-2 SONET: red óptica sincronizada.]
         
-          .col-md-6.px-4
+          .col-lg-6.px-4
             figure
               img(src="@/assets/curso/temas/tema1/t1_57.png", alt="alt")
 
         .row.justify-content-center
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Protocolos de la capa 2 - Enlace de datos
             ul.lista-ul--color              
               li 
@@ -592,7 +593,7 @@
                 | PPP: protocolo punto a punto.
               li 
                 i.fas.fa-dot-circle
-                | STP (Spanning Tree Protocol): protocolo del árbol esparcido.
+                | STP (<em>Spanning Tree Protocol</em>): protocolo del árbol esparcido.
               li 
                 i.fas.fa-dot-circle
                 | VTP VLAN: #[i.ms-2 Trunking Virtual Protocol para LAN virtual.]
@@ -600,12 +601,12 @@
                 i.fas.fa-dot-circle
                 | MPLS: conmutación multiprotocolo de la etiqueta.
         
-          .col-md-6.px-4
+          .col-lg-6.px-4
             figure
               img(src="@/assets/curso/temas/tema1/t1_58.png", alt="alt")
 
         .row.justify-content-center
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Protocolos de la capa 3 - Red
             ul.lista-ul--color              
               li 
@@ -633,12 +634,12 @@
                 i.fas.fa-dot-circle
                 | RARP: protocolo de resolución de direcciones inverso.
         
-          .col-md-6.px-4
+          .col-lg-6.px-4
             figure
               img(src="@/assets/curso/temas/tema1/t1_59.png", alt="alt")
 
         .row.justify-content-center
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Protocolos de la capa 4 - Transporte
             ul.lista-ul--color              
               li 
@@ -663,12 +664,12 @@
                 i.fas.fa-dot-circle
                 | DCCP: protocolo de control de congestión de datagramas.              
         
-          .col-md-6.px-4
+          .col-lg-6.px-4
             figure
               img(src="@/assets/curso/temas/tema1/t1_60.png", alt="alt")
 
         .row.justify-content-center
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Protocolos de la capa 5 - Sesión
             ul.lista-ul--color              
               li 
@@ -690,12 +691,12 @@
                 i.fas.fa-dot-circle
                 | SMPP: mensaje corto punto a punto.                           
         
-          .col-md-6.px-4
+          .col-lg-6.px-4
             figure
               img(src="@/assets/curso/temas/tema1/t1_61.png", alt="alt")
 
         .row.justify-content-center
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Protocolos de la capa 6 - Presentación
             ul.lista-ul--color              
               li 
@@ -711,12 +712,12 @@
                 i.fas.fa-dot-circle
                 | MIME: #[i.ms-2 Multipurpose Internet Mail Extensions].                       
         
-          .col-md-6.px-4
+          .col-lg-6.px-4
             figure
               img(src="@/assets/curso/temas/tema1/t1_62.png", alt="alt")
 
         .row.justify-content-center
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Protocolos de la capa 7 - Aplicación
             ul.lista-ul--color              
               li 
@@ -742,7 +743,7 @@
                 i.fas.fa-dot-circle
                 | Telnet: protocolo de telecomunicaciones de red.             
         
-          .col-md-6.px-4
+          .col-lg-6.px-4
             figure
               img(src="@/assets/curso/temas/tema1/t1_63.png", alt="alt")
 
@@ -794,7 +795,8 @@
 
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/J3Udvr0CJO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+       
 
     .row.justify-content-center(data-aos="zoom-in")      
       .col-lg-10
@@ -815,12 +817,12 @@
     separador
 
     #t_1_7.titulo-segundo.color-acento-contenido(data-aos="fade-in")
-      h2 1.7 Generalidades y conceptualización de post y etiquetas
+      h2 1.7 Generalidades y conceptualización de #[em post] y etiquetas
 
     .row.justify-content-center.align-items-center.mb-4    
-      .col-lg-8(data-aos="fade-in")
-        p Los post y etiquetas son herramientas que permiten el registro de información en diferentes espacios virtuales. Si se quiere tomar el significado textual, según el diccionario Oxford Languages, post significa: “texto escrito que se publica en Internet, en espacios como foros, blogs o redes sociales” y etiqueta significa: “pedazo de papel, cartulina u otro material parecido que se pega o sujeta sobre una cosa para indicar lo que es, lo que contiene u otra información relacionada con ella”. 
-        p El escenario ideal para el post (articulo) y la etiqueta (identificación) es el blog. En este sitio web cuya característica principal es la publicación de artículos a título personal con información que se desea compartir para posteriormente interactuar. Permite la personificación de los participantes (etiquetarlos) conforme a los intereses del sitio. 
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-in")
+        p Los #[em post] y etiquetas son herramientas que permiten el registro de información en diferentes espacios virtuales. Si se quiere tomar el significado textual, según el diccionario Oxford Languages, #[em post] significa: “texto escrito que se publica en Internet, en espacios como foros, #[em blogs] o redes sociales” y etiqueta significa: “pedazo de papel, cartulina u otro material parecido que se pega o sujeta sobre una cosa para indicar lo que es, lo que contiene u otra información relacionada con ella”. 
+        p El escenario ideal para el #[em post] (articulo) y la etiqueta (identificación) es el #[em blog]. En este sitio #[em web] cuya característica principal es la publicación de artículos a título personal con información que se desea compartir para posteriormente interactuar. Permite la personificación de los participantes (etiquetarlos) conforme a los intereses del sitio. 
         p Algunas maneras de personificación son:
         ul.lista-ul--color              
           li 
@@ -831,20 +833,20 @@
             | Encuestas.
           li 
             i.fas.fa-dot-circle
-            | Scripts (guiones).
+            | #[em scripts] (guiones).
 
       .col-lg-4(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema1/t1_69.png", alt="alt")
 
-    p.mb-5(data-aos="fade-in") Es importante destacar las ventajas y desventajas de las etiquetas en los post:
+    p.mb-5(data-aos="fade-in") Es importante destacar las ventajas y desventajas de las etiquetas en los #[em post]:
 
     .bg_img_03
       .row.justify-content-center(data-aos="zoom-in")
         .col-lg-8
           .titulo-sexto.color-acento-contenido.mb-5
             h5 Figura 3.
-            span Ventajas y desventajas de las etiquetas en los post
+            span Ventajas y desventajas de las etiquetas en los #[em post]
 
           figure
             img(src="@/assets/curso/temas/tema1/t1_70.svg", alt="alt")

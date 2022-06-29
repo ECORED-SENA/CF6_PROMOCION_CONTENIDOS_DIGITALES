@@ -19,7 +19,7 @@
             p Netiqueta, entonces, hace referencia a las normas de comportamiento que deben ser aplicadas por los cibernautas cuando se encuentran en línea. 
 
     .row.justify-content-center.mb-5
-      .col-xl-5(data-aos="zoom-in")
+      .col-xl-5.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema6/t6_02.png", alt="alt")
       .col-xl-7(data-aos="fade-in")
@@ -27,12 +27,11 @@
         p Interactuar en una nueva cultura como es la del ciberespacio puede ocasionar malas interpretaciones sobre el contenido y como consecuencia de ello, llevar a cometer algunos errores de comportamiento por parte de los usuarios. Es importante resaltar que detrás de cada dispositivo hay un ser humano que piensa y actúa diferente a nosotros, y por ello se hace indispensable establecer un conjunto de reglas como protocolo. 
         p Algunas reglas básicas son:
 
-    h3.cstmH3.mb-5 Reglas básicas del protocolo(data-aos="zoom-in")
+    h3.cstmH3.mb-5(data-aos="zoom-in") Reglas básicas del protocolo
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Kw6sJcK8RZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
 
 
 

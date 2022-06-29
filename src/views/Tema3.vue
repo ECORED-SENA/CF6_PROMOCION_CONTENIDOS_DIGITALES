@@ -8,12 +8,12 @@
       h1 Producción de contenido para medios digitales
 
     .row.justify-content-center
-      .col-lg-3(data-aos="zoom-in")
+      .col-lg-3.d-none.d-xl-flex(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema3/t3_02.png", alt="alt")
-      .col-lg-9(data-aos="zoom-in")
+      .col-xl-9.col-lg-12(data-aos="zoom-in")
         .row.justify-content-center(data-aos="fade-in")
-          .col-lg-4
+          .col-lg-4.col-8.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/temas/tema3/t3_01.png", alt="alt")
           .col-lg-8
@@ -27,7 +27,7 @@
 
           p El propósito del #[i copywriting] no solo es generar texto, también es generar ideas. El resultado de una buena estrategia de contenidos es crear autoridad en el nicho de mercado produciendo textos de alta calidad.
 
-      p(data-aos="fade-in") Dentro de las ventajas de la propuesta de valor se encuentran:
+      p(data-aos="fade-in") La Importancia en la producción de contenidos es la propuesta de valor para el consumidor o cliente. Educar, inspirar o entretener son pilares fundamentales como aporte a la satisfacción del cliente. <br><br>Dentro de las ventajas de la propuesta de valor se encuentran:
 
     figure.px-lg-5.mb-5(data-aos="zoom-in")
       img(src="@/assets/curso/temas/tema3/t3_03.svg", alt="alt")
@@ -47,10 +47,10 @@
                 ul.lista-ul--color              
                   li 
                     i.fas.fa-dot-circle
-                    | Artículos de blog
+                    | Artículos de #[em blog]
                   li 
                     i.fas.fa-dot-circle
-                    | Podcast
+                    | #[em Podcast]
                   li 
                     i.fas.fa-dot-circle
                     | Video 

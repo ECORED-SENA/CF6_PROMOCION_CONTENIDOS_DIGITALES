@@ -8,10 +8,10 @@
       h1 Promoción
 
     .row.justify-content-center
-      .col-lg-7(data-aos="fade-in")
-        p En mercadotecnia el término promoción se configura como parte de la estrategia del denominado marketing mix o las 4P del mercadeo: producto, Precio, Promoción y Plaza (punto de venta).
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-in")
+        p En mercadotecnia el término promoción se configura como parte de la estrategia del denominado #[em marketing mix] o las 4P del mercadeo: producto, Precio, Promoción y Plaza (punto de venta).
         p El propósito de la promoción es motivar al público objetivo a la compra de un producto o servicio mediante la comunicación. 
-        p En el mundo digital, el punto de venta tiene varias denominaciones entre las cuales se resaltan: página web o sitio, blog y finalmente un canal digital, entre otros. La utilización de dispositivos electrónicos y redes sociales permiten de manera práctica y en tiempo real la interacción del usuario con el contenido a través de las aplicaciones (app). Para Kotler (1997), “la promoción de ventas es aquel conjunto de herramientas que, en el corto plazo, incentivan y estimulan las ventas, como principal objetivo, o ayudan a los vendedores en la consecución de objetivos, como secundario”. 
+        p En el mundo digital, el punto de venta tiene varias denominaciones entre las cuales se resaltan: página #[em web] o sitio, #[em blog] y finalmente un canal digital, entre otros. La utilización de dispositivos electrónicos y redes sociales permiten de manera práctica y en tiempo real la interacción del usuario con el contenido a través de las aplicaciones (app). Para Kotler (1997), “la promoción de ventas es aquel conjunto de herramientas que, en el corto plazo, incentivan y estimulan las ventas, como principal objetivo, o ayudan a los vendedores en la consecución de objetivos, como secundario”. 
       .col-lg-5(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema2/t2_01.png", alt="alt")
@@ -21,66 +21,66 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-in")
       h2 2.1 Tipos de promoción
 
-    p(data-aos="fade-in") Según Molinillo (2014), hay tres tipos de promociones en relación con la plaza (punto de venta), los cuales son aplicables para los mercados digitales definidos anteriormente:
+    p.mb-4(data-aos="fade-in") Según Molinillo (2014), hay tres tipos de promociones en relación con la plaza (punto de venta), los cuales son aplicables para los mercados digitales definidos anteriormente:
 
     .bg_img_04(data-aos="zoom-in")
       .crd.crd--lightBlue.crd--brad.p-5.mb-5
         SlyderA(tipo="b")
           .row.justify-content-center
-            .col-md-4.mb-4.mb-md-0
+            .col-lg-4.mb-4.mb-lg-0
               h3 Promociones de precio
               p Hacen referencia a la disminución de precios con el propósito de atraer usuarios y clientes potenciales a través del uso de aplicaciones y canales digitales. Por ejemplo, las redes sociales Facebook e Instagram y el canal digital WhatsApp.
-            .col-md-8
+            .col-lg-8
               figure
                 img(src="@/assets/curso/temas/tema2/t2_02.png", alt="alt")
 
           .row.justify-content-center
-            .col-md-4.mb-4.mb-md-0
+            .col-lg-4.mb-4.mb-lg-0
               h3 Promociones sin precio
-              p Son las estrategias de marketing para la fidelización de usuarios con el propósito de lograr su conversión a cliente. Por ejemplo, cupones y obsequios digitales como e-book.  
-            .col-md-8
+              p Son las estrategias de #[em marketing] para la fidelización de usuarios con el propósito de lograr su conversión a cliente. Por ejemplo, cupones y obsequios digitales como #[em e-book].  
+            .col-lg-8
               figure
                 img(src="@/assets/curso/temas/tema2/t2_03.png", alt="alt")
 
           .row.justify-content-center
-            .col-md-4.mb-4.mb-md-0
+            .col-lg-4.mb-4.mb-lg-0
               h3 Promociones especiales
               p Es la utilización de fechas especiales u acontecimientos para la atracción de usuarios y clientes potenciales. Por ejemplo, el obsequio de cupones virtuales para realizar compras por la asistencia el día de la inauguración de un punto de venta físico o por realizar la compra por internet. 
-            .col-md-8
+            .col-lg-8
               figure
                 img(src="@/assets/curso/temas/tema2/t2_04.png", alt="alt")
 
       p.mb-5(data-aos="fade-in") Las acciones online para la promoción pueden clasificarse en dos grupos:
 
       .row.justify-content-center
-        .col-lg-5.mb-4(data-aos="zoom-in")
+        .col-xl-5.col-lg-6.mb-4(data-aos="zoom-in")
           .crd.crdAvatar-H.p-4
             .row.align-items-center
               .col-auto
                 figure
                   img(src="@/assets/curso/temas/tema2/t2_05.svg", alt="alt")
-              .col-lg
+              .col
                 h4.text-white Grupo 1
                 p.text-white.mb-0 Acciones Orgánicas o SEO #[i (Search Engine Optimization)] que traduce optimización de motores de búsqueda, se caracterizan porque se realiza sin ningún costo de inversión o pago para generar el posicionamiento y visibilidad de la marca o empresa. 
-        .col-lg-5.mb-4(data-aos="zoom-in")
+        .col-xl-5.col-lg-6.mb-4(data-aos="zoom-in")
           .crd.crdAvatar-H.p-4
             .row.align-items-center
               .col-auto
                 figure
                   img(src="@/assets/curso/temas/tema2/t2_06.svg", alt="alt")
-              .col-lg
+              .col
                 h4.text-white Grupo 2
-                p.text-white.mb-0 Acciones no orgánicas o SEM #[i (Search Engine Marketing)] que traduce marketing de motores de búsqueda, se caracteriza por la búsqueda de un mejor posicionamiento y visibilidad a través de inversiones o pagos en publicidad. Por ejemplo, Google Ads. 
+                p.text-white.mb-0 Acciones no orgánicas o SEM #[i (Search Engine Marketing)] que traduce #[em marketing] de motores de búsqueda, se caracteriza por la búsqueda de un mejor posicionamiento y visibilidad a través de inversiones o pagos en publicidad. Por ejemplo, Google Ads. 
 
         .col-lg-10(data-aos="zoom-in")
           .bloque-texto-a.cstm_clr_01.p-4.p-md-5.mb-5 
-            .row.m-0.align-items-center.justify-content-between       
+            .row.m-0.align-items-center.justify-content-md-between.justify-content-center     
               .col-lg-8
                 .bloque-texto-a__texto.p-4
-                  p Para Kotler y Armstrong (2003), estas dos clasificaciones marcan la pauta dentro de toda estrategia de marketing digital a implementar, teniendo en cuenta el segmento del mercado donde se busca un mejor posicionamiento y mayor visibilidad en el momento que el usuario utiliza una plataforma de búsqueda de contenido de su interés.<br><br>Conforme evoluciona el uso de internet y la aparición de nuevas tecnologías, es necesario realizar adaptaciones e ir actualizando estas clasificaciones. 
-              .col-lg-3.mb-4.mb-lg-0
+                  p Para Kotler y Armstrong (2003), estas dos clasificaciones marcan la pauta dentro de toda estrategia de #[em marketing] digital a implementar, teniendo en cuenta el segmento del mercado donde se busca un mejor posicionamiento y mayor visibilidad en el momento que el usuario utiliza una plataforma de búsqueda de contenido de su interés.<br><br>Conforme evoluciona el uso de internet y la aparición de nuevas tecnologías, es necesario realizar adaptaciones e ir actualizando estas clasificaciones. 
+              .col-lg-3.col-5.mt-lg-0.mt-4
                 figure
-                  img(src="@/assets/curso/temas/tema2/t2_07.svg", alt="alt")
+                  img(src="@/assets/curso/temas/tema2/t2_07.svg", alt="alt").m-auto
 
     p.mb-5(data-aos="fade-in") Algunos ejemplos de los anterior son:
 
@@ -105,7 +105,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-in")
       h2 2.2 Importancia de la promoción y su diferencia con el concepto de publicidad
 
-    p(data-aos="fade-in") La principal característica de la promoción es inducir a la compra de un producto o servicio, fidelizar clientes y contrarrestar la competencia. La promoción es importante, porque:
+    p.mb-5(data-aos="fade-in") La principal característica de la promoción es inducir a la compra de un producto o servicio, fidelizar clientes y contrarrestar la competencia. La promoción es importante, porque:
 
     .bg_img_02
       .row.justify-content-center.mb-5
@@ -114,7 +114,7 @@
             .crd.crd--mint.crd--brad.fullHg
               figure
                 img(src="@/assets/curso/temas/tema2/t2_12.png", alt="alt")                
-              h5.text-center.p-3 Atrae nuevos consumidores, especialmente de la competencia
+              h5.text-center.p-3 Atrae nuevos consumidores, especialmente de la competencia.
             .crd.crd--mint.crd--brad.fullHg
               figure
                 img(src="@/assets/curso/temas/tema2/t2_13.png", alt="alt")                

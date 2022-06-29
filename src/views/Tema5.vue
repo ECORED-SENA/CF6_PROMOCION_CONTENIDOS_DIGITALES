@@ -10,7 +10,7 @@
     .crd.crd--banner_01.p-5(data-aos="zoom-in").mb-5
       .row
         .col-lg-6
-          p Es la digitalización de un documento mediante la utilización de herramientas informáticas, con el propósito de modificarlo y adecuarlo a las necesidades de comunicación establecidas por la estrategia de marketing digital enfocado al público objetivo con el que se pretende interactuar.
+          p Es la digitalización de un documento mediante la utilización de herramientas informáticas, con el propósito de modificarlo y adecuarlo a las necesidades de comunicación establecidas por la estrategia de #[em marketing] digital enfocado al público objetivo con el que se pretende interactuar.
           p Editar es sinónimo de publicar y en el ciberespacio a través de los medios digitales, la comunicación se realiza mediante la generación de contenido para su publicación principalmente en imágenes y videos.     
 
     .bg_grad_01.mb-5(data-aos="fade-in")
@@ -53,7 +53,7 @@
                 h5.text-center.py-3 6. Lumen 5
 
       .row.justify-content-center.align-items-center
-        .col-lg-5(data-aos="fade-in")
+        .col-lg-5.mb-4.mb-lg-0(data-aos="fade-in")
           p ¿Como hacerlo? Para ello se presenta un paso a paso:
           ol.lista-ol--cuadro.mb-0
             li 
@@ -134,7 +134,7 @@
 
 
       .row.justify-content-center.align-items-center
-        .col-lg-5.col-8(data-aos="zoom-in")
+        .col-lg-5.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
           figure
             img(src="@/assets/curso/temas/tema5/t5_17.png", alt="alt")
         .col-lg-5(data-aos="fade-in")
@@ -224,11 +224,11 @@
     .row.justify-content-center.mb-4
       .col-lg-6
         h3.cstmH3.mb-4(data-aos="zoom-in") ¿Cómo se corrige un error?
-        p(data-aos="fade-in") En el mundo digital un error se difunde en cuestión de segundos y su efecto podría ocasionar grandes afectaciones a la marca, por ello el contenido juega un papel muy importante dentro de la estrategia del marketing digital representado en todas sus posibles formas como: textos, videos e imágenes, etc.; esta responsabilidad recae sobre el editor de contenidos.
+        p(data-aos="fade-in") En el mundo digital un error se difunde en cuestión de segundos y su efecto podría ocasionar grandes afectaciones a la marca, por ello el contenido juega un papel muy importante dentro de la estrategia del #[em marketing] digital representado en todas sus posibles formas como: textos, videos e imágenes, etc.; esta responsabilidad recae sobre el editor de contenidos.
 
-        p(data-aos="fade-in") El editor de contenidos es el profesional que selecciona, analiza y finalmente aprueba la información que será incorporada al sitio web y canales digitales. Su función principal es evitar que el contenido se difunda con errores.
+        p(data-aos="fade-in") El editor de contenidos es el profesional que selecciona, analiza y finalmente aprueba la información que será incorporada al sitio #[em web] y canales digitales. Su función principal es evitar que el contenido se difunda con errores.
 
-      .col-lg-6(data-aos="zoom-in")
+      .col-lg-6.mb-4(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema5/t5_26.png", alt="alt")
       .col-12
@@ -236,32 +236,32 @@
 
     .bg_darkGreen.py-5
       .row.justify-content-center.mb-4
-        .col-xl-3.col-7.mb-4
+        .col-xl-4.col-7.mb-4
           .crd.crd--hole.p-5(data-crdNum="01")(data-aos="zoom-in")
             .row.align-items-center.mb-3
               .col-12.mb-2
                 figure
                   img(src="@/assets/curso/temas/tema7/t7_04.svg", alt="alt").img70
               .col-lg
-                p.mb-0 #[strong En la edición de videos: ]
-            p.mb-3 seleccionar la música, las imágenes y los efectos de sonido. 
-        .col-xl-3.col-7.mb-4
+                p.mb-0 #[strong En la edición de videos ]
+            p.mb-3 Seleccionar la música, las imágenes y los efectos de sonido. 
+        .col-xl-4.col-7.mb-4
           .crd.crd--hole.p-5(data-crdNum="02")(data-aos="zoom-in")
             .row.align-items-center.mb-3
               .col-12.mb-2
                 figure
                   img(src="@/assets/curso/temas/tema7/t7_05.svg", alt="alt").img70
               .col-lg
-                p.mb-0 #[strong En la implementación de proyectos audiovisuales:]
+                p.mb-0 #[strong En la implementación de proyectos audiovisuales]
             p.mb-3 Seleccionar los libretos, los documentales, los reportajes y el material para las cuñas en televisión.  
-        .col-xl-3.col-7.mb-4
+        .col-xl-4.col-7.mb-4
           .crd.crd--hole.p-5(data-crdNum="03")(data-aos="zoom-in")
             .row.align-items-center.mb-3
               .col-12.mb-2
                 figure
                   img(src="@/assets/curso/temas/tema7/t7_06.svg", alt="alt").img70
               .col-lg
-                p.mb-0 #[strong En las actividades de postproducción:]
+                p.mb-0 #[strong En las actividades de postproducción]
             p.mb-3 Revisar el contenido final de los videos (animaciones, efectos especiales, interfaz, etc.)
 
       .row.justify-content-center.align-items-center
@@ -287,7 +287,7 @@
                 | Marketing AI (hojas de trabajo).
               li 
                 i.fas.fa-dot-circle.blue
-                | MailChimp (email marketing).
+                | MailChimp (#[em email marketing]).
               li 
                 i.fas.fa-dot-circle.blue
                 | Hootsuite (gestor de publicación en redes). 

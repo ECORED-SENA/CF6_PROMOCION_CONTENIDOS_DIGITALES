@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.txt--system 4
-      h1 La Parrilla de contenido
+      h1 La parrilla de contenido
 
-    .row.justify-content-center 
-      .col-lg-5(data-aos="zoom-in")
+    .row.justify-content-center.mb-4
+      .col-lg-5.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema4/t4_01.png", alt="alt")
       .col-lg-7(data-aos="fade-in")
-        p Es un #[span.txt--blue diagrama de Gantt] donde se proyectan las publicaciones de contenido que se van a realizar en las diferentes redes sociales o canales digitales de acuerdo con la estrategia de marketing digital y el objetivo propuesto por la marca para un periodo de tiempo.
+        p Es un #[span.txt--blue diagrama de Gantt] donde se proyectan las publicaciones de contenido que se van a realizar en las diferentes redes sociales o canales digitales de acuerdo con la estrategia de #[em marketing] digital y el objetivo propuesto por la marca para un periodo de tiempo.
         p La parrilla de contenidos o calendario de contenidos como también se le denomina permitirá:
 
         ol.lista-ol--cuadro.mb-0
@@ -71,7 +71,7 @@
                 td Eje tem&aacute;tico
                 td Objetivo
                 td Formato
-                td Copy
+                td #[em copy]
                 td Contenido visual
                 td Notas
               tr.text-center
@@ -88,8 +88,8 @@
                 td Martes
                 td 6:00 p. m.
                 td Contenido de valor.
-                td Mejorar engagement.
-                td Reels
+                td Mejorar #[em engagement].
+                td #[em Reels]
                 td Consejos para mejorar tu marca.
                 td Cada consejo tiene de fondo un color diferente.
                 td Video de 30 seg. Ver videos en Tik Tok para inspirar.
