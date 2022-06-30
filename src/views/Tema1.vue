@@ -822,7 +822,7 @@
     .row.justify-content-center.align-items-center.mb-4    
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-in")
         p Los #[em post] y etiquetas son herramientas que permiten el registro de información en diferentes espacios virtuales. Si se quiere tomar el significado textual, según el diccionario Oxford Languages, #[em post] significa: “texto escrito que se publica en Internet, en espacios como foros, #[em blogs] o redes sociales” y etiqueta significa: “pedazo de papel, cartulina u otro material parecido que se pega o sujeta sobre una cosa para indicar lo que es, lo que contiene u otra información relacionada con ella”. 
-        p El escenario ideal para el #[em post] (articulo) y la etiqueta (identificación) es el #[em blog]. En este sitio #[em web] cuya característica principal es la publicación de artículos a título personal con información que se desea compartir para posteriormente interactuar. Permite la personificación de los participantes (etiquetarlos) conforme a los intereses del sitio. 
+        p El escenario ideal para el #[em post] (artículo) y la etiqueta (identificación) es el #[em blog]. En este sitio #[em web] cuya característica principal es la publicación de artículos a título personal con información que se desea compartir para posteriormente interactuar. Permite la personificación de los participantes (etiquetarlos) conforme a los intereses del sitio. 
         p Algunas maneras de personificación son:
         ul.lista-ul--color              
           li 

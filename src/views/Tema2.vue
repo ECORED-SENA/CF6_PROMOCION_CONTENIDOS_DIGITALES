@@ -9,7 +9,7 @@
 
     .row.justify-content-center
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-in")
-        p En mercadotecnia el término promoción se configura como parte de la estrategia del denominado #[em marketing mix] o las 4P del mercadeo: producto, Precio, Promoción y Plaza (punto de venta).
+        p En mercadotecnia el término promoción se configura como parte de la estrategia del denominado #[em marketing mix] o las 4P del mercadeo: producto, precio, promoción y plaza (punto de venta).
         p El propósito de la promoción es motivar al público objetivo a la compra de un producto o servicio mediante la comunicación. 
         p En el mundo digital, el punto de venta tiene varias denominaciones entre las cuales se resaltan: página #[em web] o sitio, #[em blog] y finalmente un canal digital, entre otros. La utilización de dispositivos electrónicos y redes sociales permiten de manera práctica y en tiempo real la interacción del usuario con el contenido a través de las aplicaciones (app). Para Kotler (1997), “la promoción de ventas es aquel conjunto de herramientas que, en el corto plazo, incentivan y estimulan las ventas, como principal objetivo, o ayudan a los vendedores en la consecución de objetivos, como secundario”. 
       .col-lg-5(data-aos="zoom-in")

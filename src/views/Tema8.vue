@@ -11,7 +11,7 @@
       .row
         .col-lg-6
           p Es la combinación del símbolo (#) y una palabra o conjunto de palabras que una vez indexadas en una plataforma de red social cumple el propósito de conducir al usuario internauta mediante un hyperlink a una o varias páginas #[em web] donde encontrará información de su interés. 
-          p.mb-0 El #[em Hashtag] nace en el año 2007 en la red social Twitter y todos los 23 de agosto de cada año se celebra el #[em #hashtagDay]. Es utilizado en las redes sociales especialmente Twitter, pero también en Instagram, Facebook, Google+, Tumblr, Pinterest y Tik Tok.
+          p.mb-0 El #[em hashtag] nace en el año 2007 en la red social Twitter y todos los 23 de agosto de cada año se celebra el #[em #hashtagDay]. Es utilizado en las redes sociales especialmente Twitter, pero también en Instagram, Facebook, Google+, Tumblr, Pinterest y Tik Tok.
     
     .row.justify-content-center
       .col-lg-5.col-8.mb-4(data-aos="zoom-in")
