@@ -22,7 +22,7 @@
 
         p Etiquetar las publicaciones trae ciertos beneficios en las redes sociales, una manera de organizarlos es bajo la utilización del #[em hashtag], cada etiqueta al contenido producido permitirá dar alcance a un público objetivo como implementación de la estrategia de #[em marketing] digital.
 
-        p.mb-0 Para Sebastián Raidán autor del #[em e-book] Potencia tu Instagram etiquetar el contenido permitirá dar alcance y obtener los siguientes beneficios “1.- Optimización para el descubrimiento; 2.- Incremento del tráfico; 3.- Exhibición de los Brand Advocates; 4.- Medición; 5.- Esfuerzos cruzados” 
+        p.mb-0 Para Sebastián Raidán autor del #[em e-book] Potencia tu Instagram etiquetar el contenido permitirá dar alcance y obtener los siguientes beneficios “1.- Optimización para el descubrimiento; 2.- Incremento del tráfico; 3.- Exhibición de los Brand Advocates; 4.- Medición; 5.- Esfuerzos cruzados”.
 
 </template>
 

@@ -47,7 +47,7 @@
                 ul.lista-ul--color              
                   li 
                     i.fas.fa-dot-circle
-                    | Artículos de #[em blog]
+                    | Artículos de #[em.ms-1 blog]
                   li 
                     i.fas.fa-dot-circle
                     | #[em Podcast]
@@ -81,18 +81,21 @@
               img(src='@/assets/curso/temas/tema3/t3_04.jpg', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Contenido que genera leads (clientes potenciales, suscriptores)
-            p Hace referencia al contenido que permite obtener información valiosa del cliente potencial para la generación de las estrategias de marketing de la marca o empresa.  
+            h4 Contenido que genera #[i leads] (clientes potenciales, suscriptores)
+            p Hace referencia al contenido que permite obtener información valiosa del cliente potencial para la generación de las estrategias de #[i marketing] de la marca o empresa.  
             .row
               .col-lg-6
-                h5 Contenido
-                ul.lista-ul--color              
+                h5 Contenido       
+                ul.fa-ul
+                  li
+                    span.fa-li
+                      i.fas.fa-dot-circle.txt--green
+                    | #[em Lead Magnet] (propuesta irresistible que ofrece un pedazo específico de valor al prospecto a cambio de su información de contacto)              
                   li 
-                    i.fas.fa-dot-circle
-                    | Lead Magnet (propuesta irresistible que ofrece un pedazo específico de valor al prospecto a cambio de su información de contacto)
-                  li 
-                    i.fas.fa-dot-circle
-                    | Evento         
+                    span.fa-li
+                      i.fas.fa-dot-circle.txt--green
+                    | Evento
+                    
 
               .col-lg-6
                 h5 Tráfico

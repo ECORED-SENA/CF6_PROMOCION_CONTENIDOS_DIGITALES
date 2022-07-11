@@ -28,7 +28,7 @@
           img(src="@/assets/curso/temas/tema7/t7_02.png", alt="alt")
 
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in")
-      h5 Figura 4.
+      h5 Figura 5.
       span Características historia transmedia
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
@@ -71,7 +71,7 @@
       .row.justify-content-center.align-items-center
         .col-xl-9(data-aos="fade-in")
           .cajon.cjn--mint.p-4
-            p El protocolo para contar una buena historia está basado en las técnicas que se utilizan para generar un buen engagement; a continuación, se presentan siete técnicas para lograrlo:
+            p El protocolo para contar una buena historia está basado en las técnicas que se utilizan para generar un buen #[em engagement]; a continuación, se presentan siete técnicas para lograrlo:
             ol.lista-ol--cuadro.mb-0
               li 
                 .lista-ol--cuadro__vineta.blue

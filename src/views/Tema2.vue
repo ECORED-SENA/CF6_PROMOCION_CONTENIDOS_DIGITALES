@@ -82,7 +82,7 @@
                 figure
                   img(src="@/assets/curso/temas/tema2/t2_07.svg", alt="alt").m-auto
 
-    p.mb-5(data-aos="fade-in") Algunos ejemplos de los anterior son:
+    p.mb-5(data-aos="fade-in") Algunos ejemplos de lo anterior son:
 
     .crd.crd--grayBlue.crd--brad.p-4(data-aos="fade-in")
       LineaTiempoC.color-acento-contenido(text-small)

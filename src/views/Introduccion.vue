@@ -11,7 +11,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-9        
-        p.mb-0 El componente #[strong Fundamentos del marketing] de contenidos integra elementos comunicacionales de promoción, proyección de parrilla de contenidos edición e integración de usos de herramientas digitales para la optimización de la interacción; a continuación se entrega una presentación detallada de elementos fundamentales de este componente.
+        p.mb-0 El componente #[strong Fundamentos del #[i marketing] de contenidos] integra elementos comunicacionales de promoción, proyección de parrilla de contenidos edición e integración de usos de herramientas digitales para la optimización de la interacción; a continuación se entrega una presentación detallada de elementos fundamentales de este componente.
       .col-lg-3.d-none.d-lg-flex
         figure
           img(src="@/assets/curso/temas/intro/intro.svg", alt="alt")

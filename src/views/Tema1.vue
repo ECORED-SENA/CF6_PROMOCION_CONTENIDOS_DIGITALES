@@ -87,7 +87,7 @@
     .crd.crd--banner_02.p-5.mb-5(data-aos="zoom-in")
       .row
         .col-lg-6
-          p Es aquella que se realiza mediante el uso de las herramientas digitales disponibles para la trasmisión e intercambio de información y conocimiento. Las herramientas digitales permiten la interacción entre las personas de una manera fácil, practica, rápida sin importar la distancia. 
+          p Es aquella que se realiza mediante el uso de las herramientas digitales disponibles para la trasmisión e intercambio de información y conocimiento. Las herramientas digitales permiten la interacción entre las personas de una manera fácil, práctica, rápida sin importar la distancia. 
 
           p.mb-0 La tecnología llegó para instalarse en el mundo empresarial y en la sociedad, hoy en día la gran mayoría de las actividades comerciales y sociales se realizan a través de la #[em web], la interacción es constante, fluida y está a solo un clic, pero, de igual manera, hay ventajas y desventajas en su aplicación, entre las cuales se destacan las siguientes: 
 
@@ -177,7 +177,7 @@
           figure.mb-4
             img(src="@/assets/curso/temas/tema1/t1_12.svg", alt="alt").img145.m-auto
           h5.text-center.txt--blue Estrategia
-          p.text-center Es aquella que determina un conjunto de acciones (métodos, técnicas y actividades) para lograr un resultado conforme al publico participante. 
+          p.text-center Es aquella que determina un conjunto de acciones (métodos, técnicas y actividades) para lograr un resultado conforme al público participante. 
       .col-lg-4.col-8(data-aos="zoom-in")
         .crd.crd--hover_02.crd--brad.fullHg.p-4
           figure.mb-4
@@ -356,7 +356,7 @@
         p.mb-5(data-aos="fade-in") Una vez se da cumplimiento al planteamiento y desarrollo, se procede a evaluar el proceso integrando cada uno de los pasos que se implementaron para el plan estratégico establecido. 
 
         .titulo-sexto.color-acento-contenido(data-aos="fade-in")
-          h5 Figura 2.
+          h5 Figura 3.
           span Fases de evaluación
           
         figure.mb-5(data-aos="zoom-in")
@@ -441,7 +441,7 @@
     .bg_grad_02
       .row.justify-content-center.pt-5.mb-4
         .col-lg-7.mb-4.mb-lg-0(data-aos="fade-in")
-          p Teniendo en cuenta el concepto de comunicación que se viene trabajando y las diferentes formas de interactuar en ambientes digitales, es importante detallar el valor e importancia de la narrativa que se integrar en el desarrollo de dichas interacciones, según el diccionario Oxford Language,  #[span.txt--blue narrar] es #[span.txt--blue “contar algo que ha sucedido realmente, o un hecho o una historia ficticios, de palabra, por escrito, cinematográficamente, etc.”]. Partiendo de este concepto, se identifican elementos adicionales del lenguaje que se define según el contexto de interacción como: 
+          p Teniendo en cuenta el concepto de comunicación que se viene trabajando y las diferentes formas de interactuar en ambientes digitales, es importante detallar el valor e importancia de la narrativa que se integra en el desarrollo de dichas interacciones, según el diccionario Oxford Language,  #[span.txt--blue narrar] es #[span.txt--blue “contar algo que ha sucedido realmente, o un hecho o una historia ficticios, de palabra, por escrito, cinematográficamente, etc.”]. Partiendo de este concepto, se identifican elementos adicionales del lenguaje que se define según el contexto de interacción como: 
         .col-lg-4.col-8(data-aos="zoom-in")
           figure
             img(src="@/assets/curso/temas/tema1/t1_43.png", alt="alt")
@@ -833,7 +833,7 @@
             | Encuestas.
           li 
             i.fas.fa-dot-circle
-            | #[em scripts] (guiones).
+            | #[em.me-1 scripts] (guiones).
 
       .col-lg-4(data-aos="zoom-in")
         figure
@@ -845,7 +845,7 @@
       .row.justify-content-center(data-aos="zoom-in")
         .col-lg-8
           .titulo-sexto.color-acento-contenido.mb-5
-            h5 Figura 3.
+            h5 Figura 4.
             span Ventajas y desventajas de las etiquetas en los #[em post]
 
           figure

@@ -192,7 +192,7 @@
         figure.flex-grow-0
           img(src="@/assets/curso/temas/tema5/t5_20.svg", alt="alt").img190.m-auto
         .crd.crd--darkGreen.crd--brad.flex-grow-1.p-4
-          p.text-center.mb-0 Identificar la audiencia (público objetivo)
+          p.text-center.mb-0 Identificar la audiencia (público objetivo).
       .col-xl-2.col-md-3.col-10.d-flex.flex-column.mb-4(data-aos="zoom-in") 
         figure.flex-grow-0
           img(src="@/assets/curso/temas/tema5/t5_21.svg", alt="alt").img190.m-auto
@@ -232,7 +232,7 @@
         figure
           img(src="@/assets/curso/temas/tema5/t5_26.png", alt="alt")
       .col-12
-        p Las variables más comunes para segmentar los mercados son:
+        p Responsabilidades del editor de contenidos en procesos de edición:
 
     .bg_darkGreen.py-5
       .row.justify-content-center.mb-4

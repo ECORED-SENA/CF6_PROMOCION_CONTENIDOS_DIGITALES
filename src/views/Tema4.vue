@@ -92,7 +92,7 @@
                 td #[em Reels]
                 td Consejos para mejorar tu marca.
                 td Cada consejo tiene de fondo un color diferente.
-                td Video de 30 seg. Ver videos en Tik Tok para inspirar.
+                td Video de 30 seg. Ver videos en TikTok para inspirar.
               tr.text-center
                 td Mi&eacute;rcoles
                 td                  

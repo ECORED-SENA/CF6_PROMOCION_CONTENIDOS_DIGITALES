@@ -69,7 +69,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Concepto comunicación digital',
+            titulo: 'Protocolos de la comunicación digital',
             hash: 't_1_4',
           },
           {
@@ -154,7 +154,7 @@ export default {
         nombreRuta: 'tema8',
         icono: 'far fa-file-alt',
         numero: '8',
-        titulo: '<i>Hastag</i>',
+        titulo: '<i>Hashtag</i>',
         desarrolloContenidos: true,
       },
     ],
@@ -222,7 +222,8 @@ export default {
     },
     {
       termino: 'Alcance viral',
-      significado: 'Definición',
+      significado:
+        'calcula la evolución y la interacción de una publicación en cualquier tipo de formato, especialmente las redes sociales.',
     },
     {
       termino: 'Analítica <em>web</em>',
@@ -261,7 +262,8 @@ export default {
     },
     {
       termino: '<em>Engagement</em>',
-      significado: 'Definición',
+      significado:
+        'sensación de pertenencia y unión emocional entre una marca y un usuario. Es el objetivo de toda marca o empresa en redes sociales a través de basar la estrategia en <em>marketing</em> de contenidos y generar en cada una de las redes la mayor participación posible.',
     },
     {
       termino: '<em>Término</em>',
@@ -286,7 +288,7 @@ export default {
     {
       termino: 'Influenciador',
       significado:
-        'en <em>ocial media</em> es aquella persona que tiene capacidad para viralizar y compartir contenidos con un amplio número de personas.',
+        'en <em>social media</em> es aquella persona que tiene capacidad para viralizar y compartir contenidos con un amplio número de personas.',
     },
     {
       termino: '<em>Infografía</em>',
@@ -371,7 +373,8 @@ export default {
       link: '',
     },
     {
-      referencia: 'Interserver. (2016). Protocolos de red comunes.',
+      referencia:
+        'Interserver. (2016). <em>Common Network Protocols and Their Ports.</em>',
       link:
         'https://www.interserver.net/tips/kb/common-network-protocols-ports/',
     },
@@ -500,12 +503,12 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
+        nombre: 'Jhon Fredy Rodríguez Castiblanco',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Daniel Felipe Varón Molina',
+        nombre: 'Luis Fernando Amortegui García',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
